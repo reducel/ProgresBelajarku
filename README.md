@@ -1,9 +1,9 @@
 # ProgresBelajarku
 Repository ini Berisi Pengalaman Belajarku di Dicoding
 
-14 Juni 2021
-Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
+8 Juni 2023
+Memulai Dasar Pemrograman untuk Menjadi Pengembang Software (100%)
 
-* Belajar tentang apa itu Java dan alasan menggunakannya.
+* Belajar tentang bidang pemrograman untuk menjadi pengembang software bagi pemula.
 
-* Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
+* Belajar HTML, CSS, dan Javascript tingkat dasar.
