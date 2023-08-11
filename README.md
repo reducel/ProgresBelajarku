@@ -19,7 +19,7 @@ Menyelesaikan Kelas Pengenalan ke Logika Pemrograman
 
 * Mengikuti ujian dan mendapatkan sertifikat.
 
-**11 Agustus 2023**
+**11 Agustus 2023**  
 Menyelesaikan Kelas Dasar Git dengan GitHub
 
 * Belajar tentang dasar-dasar **Git** dan **GitHub**
